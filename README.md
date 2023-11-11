@@ -4,5 +4,5 @@
 
 ## Discord:
 - Me: [swcy](https://discord.com/users/461618792464646145).
-- - My [server](https://discord.gg/insxne). **[ Insxne! ]**
-- - My [bot](https://discord.com/api/oauth2/authorize?client_id=889388725719683082&permissions=1237756275959&scope=applications.commands%20bot). **[ Rezet ]**
+  - My [server](https://discord.gg/insxne). **[ Insxne! ]**
+  - My [bot](https://discord.com/api/oauth2/authorize?client_id=889388725719683082&permissions=1237756275959&scope=applications.commands%20bot). **[ Rezet ]**
