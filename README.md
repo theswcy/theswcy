@@ -6,6 +6,16 @@
 </p><br>
 
 <h1 align=center>
+  Some Projects
+</h1>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=rezet&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=dixperiments&theme=tokyonight" />
+</a>
+<br>
+<h1 align=center>
   Development
 </h1>
 
@@ -17,7 +27,9 @@
   🐍 - <strong>Python</strong>.<br>
   🦀 - <strong>Rust</strong>.<br>
   💎 - <strong>Ruby</strong>
-</p><br>
+</p>
+<a href="https://github.com/theswcy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theswcy&layout=compact&theme=tokyonight&hide_border=true" /></a><br>
+<br>
 
 <h3>
   Frameworks:
