@@ -8,10 +8,10 @@
 <h1 align=center>
   Some Projects
 </h1>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/theswcy/rezet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=rezet&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/theswcy/dixperiments">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=dixperiments&theme=tokyonight" />
 </a>
 <br>
