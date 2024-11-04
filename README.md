@@ -25,40 +25,11 @@
 <p>
   🟣 - <strong>C#</strong>.<br>
   🐍 - <strong>Python</strong>.<br>
-  🦀 - <strong>Rust</strong>.<br>
-  💎 - <strong>Ruby</strong>
+  🦀 - <strong>Rust</strong>. [ learning ]<br>
 </p>
 <a href="https://github.com/theswcy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theswcy&layout=compact&theme=tokyonight&hide_border=true" /></a><br>
 <br>
 
-<h3>
-  Frameworks:
-</h3>
-<p>
-  🟣 - <strong>Microsoft .NET</strong>.<br>
-  🐍 - <strong>Flask</strong>.
-</p><br>
-
-<h3>
-  Tools
-</h3>
-<p>
-  📘 - <strong>Visual Studio Code</strong>.<br>
-  📕 - <strong>Visual Studio 2022</strong>.<br>
-  📙 - <strong>PyCharm Community</strong>.<br>
-  🧭 - <strong>MongoDB</strong>.<br>
-  ☕ - <strong>Oracle VirtualBox</strong>.
-</p><br>
-
-<h3>
-  Operational System:
-</h3>
-<p>
-  📘 - <strong>Windows 11 Home</strong>.<br>
-  🐧 - <strong>Linux</strong>. [ Kali / Arch ]
-</p><br>
-
-<hr><br>
 
 <h1 align=center>
   Social Medias
