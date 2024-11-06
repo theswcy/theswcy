@@ -6,36 +6,28 @@
 </p><br>
 
 <h1 align=center>
-  Some Projects
+  Some Things:
 </h1>
-<a href="https://github.com/theswcy/rezet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=rezet&theme=tokyonight" />
-</a>
-<a href="https://github.com/theswcy/dixperiments">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=dixperiments&theme=tokyonight" />
-</a>
-<br>
-<h1 align=center>
-  Development
-</h1>
-
-<h3>
-  Languages:
-</h3>
-<p>
-  🟣 - <strong>C#</strong>.<br>
-  🐍 - <strong>Python</strong>.<br>
-  🦀 - <strong>Rust</strong>. [ learning ]<br>
-</p>
-<a href="https://github.com/theswcy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theswcy&layout=compact&theme=tokyonight&hide_border=true" /></a><br>
-<br>
-
-
-<h1 align=center>
-  Social Medias
-</h1>
-<p align=center>
-  <a target="_blank"href="https://https://instagram.com/theswcy"><strong>Instagram</strong></a><br>
-  <a target="_blank"href="https://https://youtube.com/@theswcy"><strong>Youtube</strong></a><br>
-  <a target="_blank"href="https://https://discord.com/users/461618792464646145"><strong>Discord</strong></a>
-</p>
+<table align=center>
+  <td style="padding: 0; width=50%">
+    <a href="https://github.com/theswcy/rezet">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=rezet&show_icons=true&bg_color=11172e&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=false&hide_title=false" />
+    </a>
+  </td>
+<!--   <td style="padding: 0; width=50%">
+    <a href="https://github.com/theswcy/dixperiments">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=dixperiments&theme=tokyonight" />
+    </a>
+  </td> -->
+</table>
+<table align=center>
+  <td style="padding: 0; width=50%">
+    <img src="https://github-readme-stats.vercel.app/api/?username=theswcy&show_icons=true&bg_color=11172e&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=false&hide_title=false" />
+  </td>
+</table>
+<table align=center>
+  <td style="padding: 0; width=50%">
+    <a href="https://github.com/theswcy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theswcy&show_icons=true&bg_color=11172e&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=false&hide_title=false" /></a>
+  </td>
+</table>
+<hr>
