@@ -8,7 +8,7 @@
 <h1 align=center>
   My Projects:
 </h1>
-<table align=center>
+<table align=center, border="0">
   <td style="padding: 0; width=50%">
     <a href="https://github.com/theswcy/rezet">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=rezet&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=true&hide_title=false" />
@@ -27,7 +27,7 @@
 <h1 align=center>
   Software Developer:
 </h1>
-<table align=center>
+<table align=center border="0">
   <td style="padding: 0; width=50%">
     <h2>
       Languages.
@@ -37,7 +37,7 @@
     <img src="assets/langs.png" style="width: 260px;">
   </td>
 </table>
-<table align=center>
+<table align=center border="0">
   <td style="padding: 0; width=50%">
     <img src="assets/tools.png" style="width: 260px;">
   </td>
@@ -51,7 +51,7 @@
 <h1 align=center>
   Stats:
 </h1>
-<table align=center>
+<table align=center border="0">
   <td style="padding: 0; width=50%">
     <img src="https://github-readme-stats.vercel.app/api/?username=theswcy&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=true&hide_title=false" />
   </td>
