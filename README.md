@@ -9,7 +9,7 @@
   My Projects:
 </h1>
 <table align=center>
-  <td style="padding: 0; border: 1px solid #3498db">
+  <td style="padding: 0; width=50%">
     <a href="https://github.com/theswcy/rezet">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=rezet&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=true&hide_title=false" />
     </a>
