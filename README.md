@@ -6,28 +6,57 @@
 </p><br>
 
 <h1 align=center>
-  Some Things:
+  My Projects:
 </h1>
 <table align=center>
   <td style="padding: 0; width=50%">
     <a href="https://github.com/theswcy/rezet">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=rezet&show_icons=true&bg_color=11172e&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=false&hide_title=false" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=rezet&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=true&hide_title=false" />
     </a>
   </td>
-<!--   <td style="padding: 0; width=50%">
-    <a href="https://github.com/theswcy/dixperiments">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=dixperiments&theme=tokyonight" />
-    </a>
-  </td> -->
+  <td>
+  <h1>
+    Working now.
+  </h1>
+    <p>
+      since: 10/7/2024.
+    </p>
+  </td>
+</table>
+<br>
+<h1 align=center>
+  Software Developer:
+</h1>
+<table align=center>
+  <td style="padding: 0; width=50%">
+    <h2>
+      Languages.
+    </h2>
+  </td>
+  <td style="padding: 0; width=50%">
+    <img src="assets/langs.png" style="width: 260px;">
+  </td>
 </table>
 <table align=center>
   <td style="padding: 0; width=50%">
-    <img src="https://github-readme-stats.vercel.app/api/?username=theswcy&show_icons=true&bg_color=11172e&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=false&hide_title=false" />
+    <img src="assets/tools.png" style="width: 260px;">
+  </td>
+  <td>
+    <h2>
+      Technologies.
+    </h2>
   </td>
 </table>
+<br>
+<h1 align=center>
+  Stats:
+</h1>
 <table align=center>
   <td style="padding: 0; width=50%">
-    <a href="https://github.com/theswcy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theswcy&show_icons=true&bg_color=11172e&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=false&hide_title=false" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/?username=theswcy&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=true&hide_title=false" />
+  </td>
+  <td style="padding: 0; width=50%">
+    <a href="https://github.com/theswcy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theswcy&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=true&hide_title=false" /></a>
   </td>
 </table>
 <hr>
