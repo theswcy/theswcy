@@ -23,31 +23,6 @@
     </p>
   </td>
 </table>
-<br>
-<h1 align=center>
-  Software Developer:
-</h1>
-<table align=center>
-  <td style="padding: 0; width=50%">
-    <h2>
-      Languages.
-    </h2>
-  </td>
-  <td style="padding: 0; width=50%">
-    <img src="assets/langs.png" style="width: 260px;">
-  </td>
-</table>
-<table align=center>
-  <td style="padding: 0; width=50%">
-    <img src="assets/tools.png" style="width: 260px;">
-  </td>
-  <td>
-    <h2>
-      Technologies.
-    </h2>
-  </td>
-</table>
-<br>
 <h1 align=center>
   Stats:
 </h1>
