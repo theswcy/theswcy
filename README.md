@@ -19,6 +19,9 @@
 <h1 align=center>
   🍣 Programming Skills
 </h1>
+<p>
+  I HATE FRONT-END!!!!!!!!!!!!!!
+</p>
 <h3>
   Languages
 </h3>
@@ -53,6 +56,22 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    </td>
+  </tr>
+</table>
+<h3>
+  Technologies
+</h3>
+<table>
+  <tr>
+    <td>
+      <strong>Dominating</strong>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
     </td>
   </tr>
 </table>
@@ -97,8 +116,31 @@
 
 
 <h1 align=center>
+  Projects
+</h1>
+<table align=center>
+  <tr>
+    <td>
+      <a href="https://github.com/theswcy/rezet-arch">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=rezet-arch&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=true&hide_title=false" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/theswcy/rezet">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=rezet&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=true&hide_title=false" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br><br>
+
+
+<h1 align=center>
   📚 Social medias
 </h1>
+<p align=center>
+  Contact me using my instagram or discord!
+</p>
 <table align=center>
   <tr>
     <td>
@@ -107,6 +149,9 @@
       </a>
       <a href="https://discord.com/users/461618792464646145" target="_blank">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+      </a>
+      <a href="https://dev.to/theswcy" target="_blank">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
       </a>
     </td>
   </tr>
