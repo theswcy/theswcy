@@ -1,7 +1,5 @@
 <div align=center>
-  <a>
-    <img src="https://api.lanyard.rest/v1/users/461618792464646145?borderRadius=10px&idleMessage=Nenhuma%20atividade">
-  </a>
+  <a href="https://discord.com/users/461618792464646145"><img src="https://lanyard.cnrad.dev/api/461618792464646145?bg=&theme=dark&showDisplayName=true" /></a>
 </div>
 <br>
 <div align=center>
