@@ -1,4 +1,10 @@
 <div align=center>
+  <a>
+    <img src="https://api.lanyard.rest/v1/users/461618792464646145?borderRadius=10px&idleMessage=Nenhuma%20atividade">
+  </a>
+</div>
+<br>
+<div align=center>
   <img src="assets/bg.png">
 </div>
 <br><br>
