@@ -127,11 +127,6 @@
 <table align=center>
   <tr>
     <td>
-      <a href="https://github.com/theswcy/rezet-arch">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=rezet-arch&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=true&hide_title=false" />
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/theswcy/rezet">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=rezet&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=true&hide_title=false" />
       </a>
