@@ -1,3 +1,6 @@
+<h3 align=center>
+  Discord profile:
+</h3>
 <div align=center>
   <a href="https://discord.com/users/461618792464646145"><img src="https://lanyard.cnrad.dev/api/461618792464646145?bg=&theme=dark&showDisplayName=true" /></a>
 </div>
