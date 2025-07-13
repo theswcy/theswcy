@@ -4,10 +4,6 @@
 <div align=center>
   <a href="https://discord.com/users/461618792464646145"><img src="https://lanyard.cnrad.dev/api/461618792464646145?bg=&theme=dark&showDisplayName=true" /></a>
 </div>
-<br>
-<div align=center>
-  <img src="assets/bg.png">
-</div>
 <br><br>
 
 
@@ -39,7 +35,6 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     </td>
   </tr>
   <tr>
@@ -47,7 +42,6 @@
       <strong>Learning</strong>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
       <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     </td>
@@ -153,9 +147,6 @@
       </a>
       <a href="https://discord.com/users/461618792464646145" target="_blank">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-      </a>
-      <a href="https://dev.to/theswcy" target="_blank">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
       </a>
     </td>
   </tr>
