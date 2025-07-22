@@ -46,18 +46,92 @@
 <h1 align=center>
   🧪 Programming
 </h1>
-<h1 align=center>
-  <br>
-  <img src="https://img.shields.io/badge/C%23 blazor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-  ㆍ
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br><br>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
-  <br><br>
-</h1>
+<table align=center>
+  <tr>
+    <td>
+      <h3 align=center>
+        Languages
+      </h3>
+    </td>
+    <td>
+      <h3 align=center>
+        Frameworks & Libs
+      </h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+      </h3>
+    </td>
+    <td>
+      <h3>
+        <img src="https://img.shields.io/badge/.NET 9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+        <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white">
+        <img src="https://img.shields.io/badge/tokio-CC0000.svg?style=for-the-badge&logo=rust&logoColor=white">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+      </h3>
+    </td>
+  </tr>
+</table>
+<table align=center>
+  <tr>
+    <td>
+      <h3 align=center>
+        Technologies
+      </h3>
+    </td>
+    <td>
+      <h3 align=center>
+        Operational System
+      </h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>
+        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/GNU%20Bash-c67bff?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
+        <img src="https://img.shields.io/badge/termux-000005?style=for-the-badge&logo=tmux&logoColor=white">
+      </h3>
+    </td>
+    <td>
+      <h3>
+        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+      </h3>
+    </td>
+  </tr>
+</table>
+<table align=center>
+  <tr>
+    <td>
+      <h3 align=center>
+        Security
+      </h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3 align=center>
+        <img src="https://img.shields.io/badge/Black Arch-000000?style=for-the-badge&logo=arch-linux&logoColor=white">
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
+        <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
+        <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
+      <h3>
+    </td>
+  </tr>
+</table>
+
+
+
+
 <table align=center>
   <td style="padding: 0; width=50%">
     <img src="https://github-readme-stats.vercel.app/api/?username=theswcy&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=true&hide_title=false" />
