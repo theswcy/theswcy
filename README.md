@@ -2,6 +2,21 @@
   <table>
     <tr>
       <td>
+        <h3 align=center>
+          <a href="https://discord.com/users/461618792464646145" target="_blank">
+            <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+          </a>
+          <a href="https://instagram.com/theswcy" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+          </a>
+        </h3>
+      </td>
+      <td>
+        <h3 align=center>My current project</h3>
+      </td>
+    </td>
+    <tr>
+      <td>
         <a href="https://discord.com/users/461618792464646145"><img src="https://lanyard.cnrad.dev/api/461618792464646145?bg=&theme=dark&showDisplayName=true" /></a>
       </td>
       <td>
@@ -53,24 +68,3 @@
   </td>
 </table>
 <br><br>
-
-
-
-<h1 align=center>
-  📚 Social medias
-</h1>
-<p align=center>
-  Contact me using my instagram or discord!
-</p>
-<table align=center>
-  <tr>
-    <td>
-      <a href="https://instagram.com/theswcy" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-      </a>
-      <a href="https://discord.com/users/461618792464646145" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-      </a>
-    </td>
-  </tr>
-</table>
