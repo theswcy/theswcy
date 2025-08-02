@@ -1,3 +1,17 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<h1>
+  💠 About me
+</h1>
+<p align=left>
+  Hello, I'm <strong>Maverick</strong>, <strong>software developer</strong>, I do everything you ask for as long as it's within my reach. I started in the program of programming Mods for Minecraft Java in 2017, but only in 2021 did I really start exploring the world of software development further. Today, I don't consider myself an expert, I do everything within my reach!
+</p>
+<p align=left>
+  Yes, this year I entered college to study software engineering, and I intend to do a postgraduate degree!
+</p>
+<br><br>
+
+
+
 <div align=center>
   <table>
     <tr>
@@ -21,25 +35,13 @@
       </td>
       <td>
       <a href="https://github.com/theswcy/rezet">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=rezet&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=true&hide_title=false" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=rezet&show_icons=true&bg_color=0D1117,7e67ff,0D1117&text_color=0D1117&icon_color=0D1117&title_color=ffffff&count_private=false&hide_border=false&hide_title=false" />
       </a>
     </td>
     </tr>
   </table>
 </div>
-<br><br>
-
-
-<h1 align=center>
-  💠 About me
-</h1>
-<p>
-  Hello, I'm <strong>Maverick</strong>, <strong>software developer</strong>, I do everything you ask for as long as it's within my reach. I started in the program of programming Mods for Minecraft Java in 2017, but only in 2021 did I really start exploring the world of software development further. Today, I don't consider myself an expert, I do everything within my reach!
-</p>
-<p>
-  Yes, this year I entered college to study software engineering, and I intend to do a postgraduate degree!
-</p>
-<br><br>
+<br><br><br><br>
 
 
 
@@ -62,10 +64,7 @@
   <tr>
     <td>
       <h3>
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+        <img src="https://skillicons.dev/icons?i=cs,cpp,rust,java">
       </h3>
     </td>
     <td>
@@ -94,11 +93,7 @@
   <tr>
     <td>
       <h3>
-        <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/GNU%20Bash-c67bff?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-        <img src="https://img.shields.io/badge/termux-000005?style=for-the-badge&logo=tmux&logoColor=white">
+        <img src="https://skillicons.dev/icons?i=vscode,mongo,git,bash">
       </h3>
     </td>
     <td>
@@ -124,7 +119,7 @@
         <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
         <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
         <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
-      </h3>
+      <h3>
     </td>
   </tr>
 </table>
@@ -135,9 +130,9 @@
 
 <table align=center>
   <td style="padding: 0; width=50%">
-    <img src="https://github-readme-stats.vercel.app/api/?username=theswcy&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=true&hide_title=false" />
+    <img src="https://github-readme-stats.vercel.app/api/?username=theswcy&show_icons=true&bg_color=0D1117,CC6FA1,3C1FBB&text_color=ffffff&icon_color=ffffff&title_color=ffffff&count_private=false&hide_border=false&hide_title=false" />
   </td>
   <td style="padding: 0; width=50%">
-    <a href="https://github.com/theswcy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theswcy&show_icons=true&bg_color=0D1117&text_color=cad3f5&icon_color=7e67ff&title_color=7e67ff&count_private=false&hide_border=true&hide_title=false" /></a>
+    <a href="https://github.com/theswcy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theswcy&show_icons=true&bg_color=0D1117,3C1FBB,CC6FA1&text_color=ffffff&icon_color=ffffff&title_color=ffffff&count_private=false&hide_border=false&hide_title=false" /></a>
   </td>
 </table>
