@@ -3,7 +3,7 @@
   💠 About me
 </h1>
 <p align=left>
-  Hello, I'm <strong>Maverick</strong>, <strong>software developer</strong>, I do everything you ask for as long as it's within my reach. I started in the program of programming Mods for Minecraft Java in 2017, but only in 2021 did I really start exploring the world of software development further. Today, I don't consider myself an expert, I do everything within my reach!
+  Hello, I'm <strong>Maverick1</strong>, <strong>software developer</strong>, I do everything you ask for as long as it's within my reach. I started in the program of programming Mods for Minecraft Java in 2017, but only in 2021 did I really start exploring the world of software development further. Today, I don't consider myself an expert, I do everything within my reach!
 </p>
 <p align=left>
   Yes, this year I entered college to study software engineering, and I intend to do a postgraduate degree!
@@ -34,7 +34,7 @@
         <a href="https://discord.com/users/461618792464646145"><img src="https://lanyard.cnrad.dev/api/461618792464646145?bg=&theme=dark&showDisplayName=true" /></a>
       </td>
       <td>
-      <a href="https://github.com/theswcy/rezet">
+      <a href="https://github.com/theswcy/rezet-sharp">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=rezet&show_icons=true&bg_color=0D1117,7e67ff,0D1117&text_color=0D1117&icon_color=0D1117&title_color=ffffff&count_private=false&hide_border=false&hide_title=false" />
       </a>
     </td>
