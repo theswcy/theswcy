@@ -3,10 +3,7 @@
   💠 About me
 </h1>
 <p align=left>
-  Hello, I'm <strong>dotMav401</strong>, <strong>software developer</strong>, I do everything you ask for as long as it's within my reach. I started in the program of programming Mods for Minecraft Java in 2017, but only in 2021 did I really start exploring the world of software development further. Today, I don't consider myself an expert, I do everything within my reach!
-</p>
-<p align=left>
-  Yes, this year I entered college to study software engineering, and I intend to do a postgraduate degree!
+  Hello, I'm <strong>dotMav401</strong>, <strong>software engineer</strong>, I do everything you ask for as long as it's within my reach. I started in the program of programming Mods for Minecraft Java in 2017, but only in 2021 did I really start exploring the world of software development further. Today, I don't consider myself an expert, I do everything within my reach!
 </p>
 <br><br>
 
