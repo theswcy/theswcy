@@ -61,7 +61,7 @@
   <tr>
     <td>
       <h3>
-        <img src="https://skillicons.dev/icons?i=cs,cpp,rust,java">
+        <img src="https://skillicons.dev/icons?i=cs,c,cpp,rust,java,scala">
       </h3>
     </td>
     <td>
@@ -90,7 +90,7 @@
   <tr>
     <td>
       <h3>
-        <img src="https://skillicons.dev/icons?i=vscode,mongo,git,bash">
+        <img src="https://skillicons.dev/icons?i=rider,idea,vscode,unity,wasm,mongo,git,bash">
       </h3>
     </td>
     <td>
