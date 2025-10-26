@@ -3,7 +3,7 @@
   💠 About me
 </h1>
 <p align=left>
-  Hello, I'm <strong>dotMav401</strong>, <strong>software engineer</strong>, I do everything you ask for as long as it's within my reach. I started in the program of programming Mods for Minecraft Java in 2017, but only in 2021 did I really start exploring the world of software development further. Today, I don't consider myself an expert, I do everything within my reach!
+  Privet! i'm <strong>dotMav401</strong>, a small manipulator of manipulative machines. I'm 20 years old, a software developer, web developer, mod developer, and some other cool stuff. I've been in this damned phase that involves writing code and drinking coffee for a few years now, about 5 years, creating endless ideas and putting    into practice whatever is within my reach.
 </p>
 <br><br>
 
