@@ -1,3 +1,4 @@
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=theswcy&theme=crt">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <h1>
   💠 About me
@@ -31,8 +32,8 @@
         <a href="https://discord.com/users/461618792464646145"><img src="https://lanyard.cnrad.dev/api/461618792464646145?bg=&theme=dark&showDisplayName=true" /></a>
       </td>
       <td>
-      <a href="https://github.com/theswcy/rezet-sharp">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=theswcy&repo=rezet&show_icons=true&bg_color=0D1117,7e67ff,0D1117&text_color=0D1117&icon_color=0D1117&title_color=ffffff&count_private=false&hide_border=false&hide_title=false" />
+      <a href="https://github.com/theswcy">
+        <img src="https://github-stats-alpha.vercel.app/api?username=theswcy&cc=000&tc=fff&ic=fff&bc=000" />
       </a>
     </td>
     </tr>
@@ -40,6 +41,7 @@
 </div>
 <br><br><br><br>
 
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
 
 
 <h1 align=center>
@@ -90,7 +92,7 @@
   <tr>
     <td>
       <h3>
-        <img src="https://skillicons.dev/icons?i=rider,idea,vscode,unity,wasm,mongo,git,bash">
+        <img src="https://skillicons.dev/icons?i=idea,vscode,unity,wasm,mongo,git,bash">
       </h3>
     </td>
     <td>
@@ -101,35 +103,4 @@
     </td>
   </tr>
 </table>
-<table align=center>
-  <tr>
-    <td>
-      <h3 align=center>
-        Security
-      </h3>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3 align=center>
-        <img src="https://img.shields.io/badge/Black Arch-000000?style=for-the-badge&logo=arch-linux&logoColor=white">
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
-        <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-        <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white">
-      </h3>
-    </td>
-  </tr>
-</table>
 <br><br>
-
-
-
-
-<table align=center>
-  <td style="padding: 0; width=50%">
-    <img src="https://github-readme-stats.vercel.app/api/?username=theswcy&show_icons=true&bg_color=0D1117,CC6FA1,3C1FBB&text_color=ffffff&icon_color=ffffff&title_color=ffffff&count_private=false&hide_border=false&hide_title=false" />
-  </td>
-  <td style="padding: 0; width=50%">
-    <a href="https://github.com/theswcy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theswcy&show_icons=true&bg_color=0D1117,3C1FBB,CC6FA1&text_color=ffffff&icon_color=ffffff&title_color=ffffff&count_private=false&hide_border=false&hide_title=false" /></a>
-  </td>
-</table>
