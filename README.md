@@ -3,7 +3,7 @@
   💠 About me
 </h1>
 <p align=left>
-  Privet! i'm <strong>Luiz</strong>, a small manipulator of manipulative machines. I'm 20 years old, a software developer, web developer, mod developer, and some other cool stuff. I've been in this damned phase that involves writing code and drinking coffee for a few years now, about 5 years, creating endless ideas and putting    into practice whatever is within my reach.
+  Privet! i'm <strong>Luis</strong>, a small manipulator of manipulative machines. I'm 20 years old, a software developer, web developer, mod developer, and some other cool stuff. I've been in this damned phase that involves writing code and drinking coffee for a few years now, about 5 years, creating endless ideas and putting    into practice whatever is within my reach.
 </p>
 <br><br>
 
