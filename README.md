@@ -12,7 +12,7 @@ Privet! I'm <strong>Luis</strong>, a 20-year-old <strong>Software Engineer</stro
 
 
 <h1 align=center>
-  🧪 Ex-Machina
+  🧪 Ex-Machine
 </h1>
 <table align=center>
   <tr>
