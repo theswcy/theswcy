@@ -2,8 +2,9 @@
   💠 About me
 </h1>
 <p align=left>
-  Privet! i'm <strong>Luis</strong>, a small manipulator of manipulative machines. I'm 20 years old, a software developer, web developer, mod developer, and some other cool stuff. I've been in this damned phase that involves writing code and drinking coffee for a few years now, about 5 years, creating endless ideas and putting    into practice whatever is within my reach.
+  
 </p>
+Privet! I'm <strong>Luis</strong>, a 20-year-old <strong>Software Engineer</strong> focused on high-performance systems and low-level optimization. With over 5 years of experience, I specialize in building scalable backends, memory-safe tooling in <strong>Rust</strong>, and complex modding architectures. I'm a <strong>Linux power user</strong> dedicated to squeezing every drop of performance out of the machine.
 <br><br>
 
 
@@ -11,7 +12,7 @@
 
 
 <h1 align=center>
-  🧪 Programming
+  🧪 Ex-Machina
 </h1>
 <table align=center>
   <tr>
@@ -34,7 +35,7 @@
     </td>
     <td>
       <h3>
-        <img src="https://img.shields.io/badge/.NET 9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+        <img src="https://img.shields.io/badge/.NET 10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
         <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white">
         <img src="https://img.shields.io/badge/tokio-CC0000.svg?style=for-the-badge&logo=rust&logoColor=white">
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
